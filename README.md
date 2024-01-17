@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Before running the following project, move the file to achieve this setup:
+Before running the following project, move the files above to achieve this setup:
 
 The frontend folder to have these folders and files:
  - public folder
@@ -22,3 +22,5 @@ The src folder to have these files:
   - logo.svg
   - reportWebVitals.js
   - setupTests.js
+
+Do not move the files in the Backend folder
