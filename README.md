@@ -22,4 +22,3 @@ The src folder to have these files:
   - logo.svg
   - reportWebVitals.js
   - setupTests.js
-  - 
