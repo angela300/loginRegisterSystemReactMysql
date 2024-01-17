@@ -17,6 +17,7 @@ The public folder to have these files:
 The src folder to have these files:
   - App.css
   - App.js
+  - index.js
   - App.test.js
   - index.css
   - logo.svg
